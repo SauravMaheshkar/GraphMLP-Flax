@@ -1,7 +1,5 @@
 # Minimal Flax Implementation of GraphMLP
 
-![](https://github.com/SauravMaheshkar/ResMLP-Flax/blob/main/assets/ResMLP%20Banner.png?raw=true)
-
 In the past few months there have been various papers proposing MLP based architectures without Attention or Convolutions In this [paper](https://arxiv.org/abs/2106.04051), titled 'Graph-MLP: Node Classification without Message Passing in Graph', the authors introduce a new architecture for Node Classification.
 
 ## Installation
